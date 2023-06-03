@@ -1,5 +1,7 @@
 # RT2_Assignment
+## Here is the link to the documentation in sphinx :
 
+https://amirrad1998.github.io/RT2_Assignment/ 
 ## Assignment 2: ROS and Jupyter Assignment
 
 This repository contains the code for a ROS and Jupyter assignment. The code allows a robot to navigate to different goals in a simulated environment while avoiding obstacles.
