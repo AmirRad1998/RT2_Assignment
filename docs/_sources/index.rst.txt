@@ -1,0 +1,52 @@
+.. RT2_Assignment-main documentation master file, created by
+   sphinx-quickstart on Sat Jun  3 18:35:12 2023.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to robot_sim's documentation!
+===============================================
+
+.. toctree::
+  :maxdepth: 2
+  :caption: Contents:
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
+
+robot_sim documentation!
+**************************************
+
+Here is the documentation of the robot_sim package!
+
+goal_set Module
+=================================
+
+.. automodule:: scripts.goal_set
+  :members:
+
+goal_service Module
+==================================
+
+.. automodule:: scripts.goal_service
+  :members:
+
+robot_monitoring Module
+========================================
+
+.. automodule:: scripts.robot_monitoring
+  :members:
+  
+odometer Module
+==================================
+
+.. automodule:: scripts.odometer
+  :members:
+
+
