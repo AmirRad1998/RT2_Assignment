@@ -1,27 +1,21 @@
 # RT2_Assignment
 
-# Assignment 2: ROS and Jupyter Assignment
+## Assignment 2: ROS and Jupyter Assignment
 
-This repository contains the code for a ROS (Robot Operating System) and Jupyter assignment. The code allows a robot to navigate to different goals in a simulated environment while avoiding obstacles.
+This repository contains the code for a ROS and Jupyter assignment. The code allows a robot to navigate to different goals in a simulated environment while avoiding obstacles.
 
 ## Prerequisites
 - ROS: Make sure you have ROS installed on your system.
 - Jupyter: Install Jupyter Notebook to run the code.
-
+- Gazebo: Install Gazebo for simulating the robot environment.
+- RViz: Install RViz for visualization and debugging.
+- 
 ## Installation
 
-1. Clone the repository:
-git clone https://github.com/your-username/repository.git
-
-2. Navigate to the cloned repository:
-cd repository
-
-
-
-3. Open Jupyter Notebook:
+1. Open Jupyter Notebook:
 jupyter notebook
-4. Open the assignment file:
-open Assignment.ipynb
+2. Open the assignment file:
+AAAAAAAAAAAAAAAAAAAAAAA.ipynb
 
 
 ## Usage
